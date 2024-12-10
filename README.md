@@ -17,7 +17,7 @@ If you find the code helpful, please cite it as follows:
 @article{huang2024Learnable,
   title={Learnable Evolutionary Multi-Objective Combinatorial Optimization via Sequence-to-Sequence Model},
   author={Huang, Jiaxiang and Jiao, Licheng},
-  journal={arXiv preprint arXiv:2404.13859},
+  journal={arXiv preprint arXiv:2412.06140},
   year={2024}
 }
 ```
