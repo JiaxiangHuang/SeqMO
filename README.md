@@ -1,6 +1,7 @@
 # Learnable Evolutionary Multi-Objective Combinatorial Optimization via Sequence-to-Sequence Model
 
 This repository contains the official Matlab implementation of the paper:
+
 Huang J, Jiao L. Learnable Evolutionary Multi-Objective Combinatorial Optimization via Sequence-to-Sequence Model[J]. arXiv preprint arXiv:2412.06140, 2024.
 
 ## Reproducing Results
