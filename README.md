@@ -14,7 +14,7 @@ For ease of reproducibility, we suggest you install PlatEMO: https://github.com/
 If you find the code helpful, please cite it as follows:
 
 ```
-@article{huang2016global,
+@article{huang2024Learnable,
   title={Learnable Evolutionary Multi-Objective Combinatorial Optimization via Sequence-to-Sequence Model},
   author={Huang, Jiaxiang and Jiao, Licheng},
   journal={arXiv preprint arXiv:2404.13859},
